@@ -9,7 +9,11 @@ This tutorial is helpful for beginners who want to understand Generics.
 3. generic set example
 4. generic class example
 5. generic method example
+6. class Objects as type literals
+7. use of wildcards
 
 ### How to run?
 
-Clone repository and run mvn package. 
+Clone repository and run mvn package.
+Execute program by running command 
+java -cp target/Generics-0.0.1-SNAPSHOT.jar com.github.generics.GenericsDemo
